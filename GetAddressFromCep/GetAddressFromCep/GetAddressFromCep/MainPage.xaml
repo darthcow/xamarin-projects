@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:util="clr-namespace:GetAddressFromCep.Util;assembly=GetAddressFromCep"
+             mc:Ignorable="d"
+             x:Class="GetAddressFromCep.MainPage">
+
+    <StackLayout
+        Padding="50"
+        Spacing="30"
+        HorizontalOptions="CenterAndExpand"
+        BackgroundColor="LightSeaGreen">
+
+        <Image Source="viacep.png"
+               BackgroundColor="LightSeaGreen"
+               x:Name="imgLogo" />
+
+        <BoxView
+            HorizontalOptions="FillAndExpand"
+            HeightRequest="2"
+            Color="YellowGreen" />
+
+        <FlexLayout
+            Direction="Row"
+            JustifyContent="SpaceBetween">
+            <Entry
+                Placeholder="Digite o CEP"
+                Keyboard="Numeric"
+                x:Name="entryCep"
+                HorizontalOptions="Start"
+                BackgroundColor="LightSeaGreen"
+                PlaceholderColor="YellowGreen">
+
+                <Entry.Behaviors>
+                    <util:MaskedBehavior Mask="XXXXX-XXX" />
+                </Entry.Behaviors>
+
+            </Entry>
+            <BoxView
+            
+                VerticalOptions="FillAndExpand"
+                WidthRequest="2"
+                Color="YellowGreen" />
+            <Button
+                Text="Buscar Cep"
+                TextColor="White"
+                BackgroundColor="Green"
+                HorizontalOptions="End"
+                x:Name="buttonSearchCep"
+                Clicked="ButtonSearchCep_Clicked"
+                Padding="8" />
+        </FlexLayout>
+        <BoxView
+            HorizontalOptions="FillAndExpand"
+            HeightRequest="1"
+            Color="DarkGreen" />
+
+        <Label
+            x:Name="textResult"
+            Text=""
+            TextColor="Black"
+            HorizontalOptions="Center"
+            VerticalOptions="CenterAndExpand"
+            BackgroundColor="LightSeaGreen"
+            FontSize="26" />
+    </StackLayout>
+  
+
+
+    
+</ContentPage>

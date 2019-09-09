@@ -1,0 +1,12 @@
+C:\Users\Julio\source\repos\GetAddressFromCep\GetAddressFromCep\GetAddressFromCep\bin\Debug\netstandard2.0\GetAddressFromCep.deps.json
+C:\Users\Julio\source\repos\GetAddressFromCep\GetAddressFromCep\GetAddressFromCep\bin\Debug\netstandard2.0\GetAddressFromCep.dll
+C:\Users\Julio\source\repos\GetAddressFromCep\GetAddressFromCep\GetAddressFromCep\obj\Debug\netstandard2.0\GetAddressFromCep.csprojAssemblyReference.cache
+C:\Users\Julio\source\repos\GetAddressFromCep\GetAddressFromCep\GetAddressFromCep\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Julio\source\repos\GetAddressFromCep\GetAddressFromCep\GetAddressFromCep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Julio\source\repos\GetAddressFromCep\GetAddressFromCep\GetAddressFromCep\obj\Debug\netstandard2.0\GetAddressFromCep.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\GetAddressFromCep\GetAddressFromCep\GetAddressFromCep\obj\Debug\netstandard2.0\GetAddressFromCep.AssemblyInfoInputs.cache
+C:\Users\Julio\source\repos\GetAddressFromCep\GetAddressFromCep\GetAddressFromCep\obj\Debug\netstandard2.0\GetAddressFromCep.AssemblyInfo.cs
+C:\Users\Julio\source\repos\GetAddressFromCep\GetAddressFromCep\GetAddressFromCep\bin\Debug\netstandard2.0\GetAddressFromCep.pdb
+C:\Users\Julio\source\repos\GetAddressFromCep\GetAddressFromCep\GetAddressFromCep\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Julio\source\repos\GetAddressFromCep\GetAddressFromCep\GetAddressFromCep\obj\Debug\netstandard2.0\GetAddressFromCep.dll
+C:\Users\Julio\source\repos\GetAddressFromCep\GetAddressFromCep\GetAddressFromCep\obj\Debug\netstandard2.0\GetAddressFromCep.pdb
