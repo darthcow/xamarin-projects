@@ -1,3 +1,0 @@
-*.c# linguist-detectable=true
-*.assembly linguist-detectable=false
-*.java linguist-detectable=false
